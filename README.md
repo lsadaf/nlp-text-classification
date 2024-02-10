@@ -1,4 +1,3 @@
-# nlp-text-classification
 ## Sports vs. Politics News Classifier
 This project implements a K-Nearest Neighbors (KNN) classifier to categorize news articles as either sports or politics. It trains on a dataset of labeled news articles and then predicts the category of new, unseen articles.
 
